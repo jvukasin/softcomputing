@@ -1,6 +1,6 @@
 # Soft computing - Vukašin Jović RA131/2015
 
-Za pokretanje programa se koristio pycharm. Potrebno je pokrenuti fajl numlines.py bez dodatnih parametara prilikom pokretanja.
+Program pisam u python-u za čije pokretanje se koristio PyCharm. Potrebno je pokrenuti fajl 'numlines.py' bez dodatnih parametara prilikom pokretanja.
 
 Proces izvršavanja programa:
 - Istrenirana neuronska mreža je sačuvana u fajlu 'ann.h5', i ona se pokreće.
